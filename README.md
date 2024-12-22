@@ -36,11 +36,6 @@ high-precision mouse benchmarking application designed to measure and analyze mo
   - VSync control
   - DPI scaling awareness
 
-- **Professional UI**
-  - Clean, modern interface
-  - Real-time graphs
-  - Color-coded metrics
-  - Fullscreen operation
 
 ## System Requirements
 
